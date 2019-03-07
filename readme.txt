@@ -1,5 +1,5 @@
 The goal is to solve Logipix puzzles, which are represented by grids of numbers. 
-The rules of the game are explained
+The rules of the game are explained in the file Logipix_explainer
 
 The different versions of the solvers are solvev1, solvev2, solvev3, solveWithCombination.
 They are methodes that can be run this way : puzzle.solve(), puzzle being from the class Logipix (created like this : puzzle = new Logipix() )
